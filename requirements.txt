@@ -1,0 +1,4 @@
+pytube
+aiohttp
+ffmpeg-python
+gunicorn
